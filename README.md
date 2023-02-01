@@ -1,4 +1,4 @@
-![Domainitor Logo](domainitor-logo.gif)
+![Domainitor Logo](domainitor-logo.png)
 
 ## License
 
