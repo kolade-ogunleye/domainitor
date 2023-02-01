@@ -23,6 +23,5 @@ Domainitor automates the generation of expiry reports for domain names.
 	Returns success unless interruption or an error occurs.
 
 ## Additional Info
-For more detailed information about this tool, especially its usage, logic
-flow, how to contribute to it, or for any questions, kindly visit the
-[tool page](http://infosecbyomokolade.local/cyber-security/tools/domainitor-tool-track-generate-domain-names-expiry-report/)!
+For more detailed information about this tool, especially its usage, logic flow,  
+how to contribute to it, or for any questions, kindly visit the [tool page](http://infosecbyomokolade.com/cyber-security/tools/domainitor-tool-track-generate-domain-names-expiry-report/)!
